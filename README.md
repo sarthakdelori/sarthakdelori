@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarthakdelori
-- 👀 I’m interested in Web Development and Data Analysis.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me : sarthakdelori10@gmail.com
